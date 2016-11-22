@@ -17,4 +17,6 @@ setInterval(function() {
 
 }, 40);
 
+audio.loop = true;
+
 audio.play();
